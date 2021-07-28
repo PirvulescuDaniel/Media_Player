@@ -2,7 +2,7 @@
 Media Player made with Qt/C++/CSS/XAMPP+MySql
 
 You can download "Media_player_app.rar" if you want to launch the app. </br>
-Use the fallowing "guest" account: </br>
+Use the following "guest" account: </br>
    Username: github </br>
    Password: 123456 </br> </br>
    
